@@ -10,7 +10,7 @@ Quizzler is the perfect quiz game for having fun and learning new things at the 
 
 Created to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
-![Finished App]()
+![Finished App](https://github.com/sh-yash/QUizzler/blob/master/quizzler-demo.gif)
 
 ##
 
